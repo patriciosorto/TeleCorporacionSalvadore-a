@@ -22,3 +22,7 @@ https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_2_av-p.m3u8?sd=10&se
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1351000,RESOLUTION=856x480,CODECS="avc1.77.30, mp4a.40.2"
 https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1497026837~acl=%2f*~data=hdntl~hmac=505cf6dac40e23ba2b7d985032b3edceaf48d0dae16e566371f0c1b55b5ab72d
 
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1351000,RESOLUTION=856x480,CODECS="avc1.77.30, mp4a.40.2"
+https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1496950383~acl=%2f*~data=hdntl~hmac=a6d60e89e4314b935dabfb9158254bd761728223899a9e60520009934d0892f5
+
