@@ -12,7 +12,7 @@ https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&st
 
 
 #EXTINF:-1, tvg-logo="TCS Canal 6.png" group-litle=,TCS Canal 6
-https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_2_av-p.m3u8?sd=10&start=1498156168&set-segment-duration=smoothest&rebase=on&hdntl=exp=1498246206~acl=%2f*~data=hdntl~hmac=fff1ebb1cb0d44ffbafc19861d8a8c8743db69cb196341fce28e431cf76be2d8
+https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1498156168&set-segment-duration=smoothest&rebase=on&hdntl=exp=1498246206~acl=%2f*~data=hdntl~hmac=fff1ebb1cb0d44ffbafc19861d8a8c8743db69cb196341fce28e431cf76be2d8
 
 
 
@@ -30,4 +30,5 @@ http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1,Canal 21 Megavision
 rtsp://mobilestr1.livestream.com/livestreamiphone/grupomegavision
+
 
