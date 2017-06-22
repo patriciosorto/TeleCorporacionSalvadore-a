@@ -29,6 +29,18 @@ https://streannlive-lh.akamaihd.net/i/TCSGOHD_1@444437/index_2_av-p.m3u8?sd=10&s
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1,Canal 21 Megavision
-rtsp://mobilestr1.livestream.com/livestreamiphone/grupomegavision
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,Canal 23
+http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1484468436.m3u8
+
+
+#EXTINF:-1,Canal 17
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/chunklist_w302137222.m3u8
+
+
+
+#EXTINF:-1,Canal TVX
+http://cdn.elsalvadordigital.com:1935/canal23/canal23/playlist.m3u8 
 
 
