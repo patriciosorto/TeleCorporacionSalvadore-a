@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,TCS Canal 2
-,CODECS="avc1.77.30, mp4a.40.2"
 https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start=1499438140&set-segment-duration=smoothest&rebase=on&hdntl=exp=1499528160~acl=%2f*~data=hdntl~hmac=821ba34b97a3f8d691a3a3606d21ce875b3444219d2a40d88fa4ab79e959224b
 
 
