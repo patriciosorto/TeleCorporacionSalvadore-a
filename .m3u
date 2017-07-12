@@ -5,7 +5,7 @@ https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&st
 
 
 #EXTINF:-1, tvg-logo="TCS Canal 4.png" group-litle=,TCS Canal 4
-https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&start=1499709796&set-segment-duration=smoothest&rebase=on&hdntl=exp=1499799822~acl=%2f*~data=hdntl~hmac=37e593e52efbc5e787acbbcd34a7a38e53affc56d1aad9410e00343879f09304
+https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&start=1499829964&set-segment-duration=smoothest&rebase=on&hdntl=exp=1499919981~acl=%2f*~data=hdntl~hmac=461d5e03ea9434b9f18dba10ad93e1515c51b6a7619bd7c4bb1d88e6376dd637
 
 
 
@@ -30,3 +30,4 @@ http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Canal 21 Megavision.png" group-litle=,Canal 21 Megavision
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
