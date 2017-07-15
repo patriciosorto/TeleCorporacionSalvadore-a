@@ -1,18 +1,18 @@
 ##EXTM3U
 #EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,TCS Canal 2
-https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start=1500037588&set-segment-duration=smoothest&rebase=on&hdntl=exp=1500127596~acl=%2f*~data=hdntl~hmac=ed4bf3e1fa10ab0c7dbcaef77d5678c41223db7ff024165c61fd57e474915901
+https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start=1500046911&set-segment-duration=smoothest&rebase=on&hdntl=exp=1500136922~acl=%2f*~data=hdntl~hmac=77cced6ed3c01cffa45fb55ace0aa72b6b50e9ea6c23377c59d87da26694cbe1
 
 
 
 
 #EXTINF:-1, tvg-logo="TCS Canal 4.png" group-litle=,TCS Canal 4
-https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&start=1500037602&set-segment-duration=smoothest&rebase=on&hdntl=exp=1500127610~acl=%2f*~data=hdntl~hmac=afb39e84e51ecb8b61f4e156d91496f6626b428a47bbea7b908fe11eb4155f37
+https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&start=1500046928&set-segment-duration=smoothest&rebase=on&hdntl=exp=1500136940~acl=%2f*~data=hdntl~hmac=6480b3564c8e6c0058b6d4eba01194f35748fb71f676d3dffdde35142317a619
 
 
 
 
 #EXTINF:-1, tvg-logo="TCS Canal 6.png" group-litle=,TCS Canal 6
-https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1499988828&set-segment-duration=smoothest&rebase=on&hdntl=exp=1500078841~acl=%2f*~data=hdntl~hmac=29bd946201ddd4815b6cafb476293305f1cea23f46670c8a025a072c84f1b2fb
+https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1500054420&set-segment-duration=smoothest&rebase=on&hdntl=exp=1500144431~acl=%2f*~data=hdntl~hmac=610559c668515cb9d4d9e8879386bf689f1cfc1c866d17810b100e0a4701987a
 
 
 
