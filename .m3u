@@ -1,6 +1,6 @@
 ##EXTM3U
 #EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,TCS Canal 2
-https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start=1501766757&set-segment-duration=smoothest&rebase=on&hdntl=exp=1501856770~acl=%2f*~data=hdntl~hmac=e38142345b8e72a34fa324e0e87de024e50a17dbbb66c0937a8ffa9af13efd85
+https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start=1501804194&set-segment-duration=smoothest&rebase=on&hdntl=exp=1501894211~acl=%2f*~data=hdntl~hmac=688d6d1d04d398b3f0c23367de126f53df442d712346549e93b8000b21e223e1
 
 
 
@@ -12,7 +12,7 @@ https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&st
 
 
 #EXTINF:-1, tvg-logo="TCS Canal 6.png" group-litle=,TCS Canal 6
-https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1501696703&set-segment-duration=smoothest&rebase=on&hdntl=exp=1501786715~acl=%2f*~data=hdntl~hmac=4cfc038aa05dc69660714db14bcc334f9e818bec01411b16d543417a11919591
+https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1501804152&set-segment-duration=smoothest&rebase=on&hdntl=exp=1501894170~acl=%2f*~data=hdntl~hmac=f459de309b785944c87721f3763028470379f34aa18b9efc291b171f911bdedf
 
 
 
