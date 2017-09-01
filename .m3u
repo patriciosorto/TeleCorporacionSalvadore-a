@@ -1,18 +1,18 @@
 ##EXTM3U
 #EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,TCS Canal 2
-https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start=1504152236&set-segment-duration=smoothest&rebase=on&hdntl=exp=1504242260~acl=%2f*~data=hdntl~hmac=fde6c281f24920e3685bce45216335e1e938b7393219c751c3211e53c9b5aa31
+https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start=1504239712&set-segment-duration=smoothest&rebase=on&hdntl=exp=1504329721~acl=%2f*~data=hdntl~hmac=da43a29b9ede4169f74073c617740e2f4ba1a53362bbc5aa6c1067e1ad9d5ab1
 
 
 
 
 #EXTINF:-1, tvg-logo="TCS Canal 4.png" group-litle=,TCS Canal 4
-https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&start=1504152270&set-segment-duration=smoothest&rebase=on&hdntl=exp=1504242310~acl=%2f*~data=hdntl~hmac=b0c7a35c3eeff28cecd8e3bbf90a1022d2ca7596fddc7d33ce0bf35586efdd15
+https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&start=1504239730&set-segment-duration=smoothest&rebase=on&hdntl=exp=1504329741~acl=%2f*~data=hdntl~hmac=a6672d8e3cbb58e553c1a7db97632a6b01ce6bd0ea0bdfa522e0e6ba58fc9ff0
 
 
 
 
 #EXTINF:-1, tvg-logo="TCS Canal 6.png" group-litle=,TCS Canal 6
-https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1504152554&set-segment-duration=smoothest&rebase=on&hdntl=exp=1504242571~acl=%2f*~data=hdntl~hmac=ffef6abc19c802d8757b0b0df4fc6a8de93fd643cc94ca19d0d7df0be10aae6b
+https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1504239745&set-segment-duration=smoothest&rebase=on&hdntl=exp=1504329760~acl=%2f*~data=hdntl~hmac=4be5ed20269d830b0915c93b9d31e54355c714e84143c8ecd48ffc1992cfb582
 
 
 
@@ -21,7 +21,7 @@ https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10
 
 
 #EXTINF:-1, tvg-logo="TCS VTV.png" group-litle=,TCS VTV
-https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1504152554&set-segment-duration=smoothest&rebase=on&hdntl=exp=1504242571~acl=%2f*~data=hdntl~hmac=ffef6abc19c802d8757b0b0df4fc6a8de93fd643cc94ca19d0d7df0be10aae6b
+https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1504239745&set-segment-duration=smoothest&rebase=on&hdntl=exp=1504329760~acl=%2f*~data=hdntl~hmac=4be5ed20269d830b0915c93b9d31e54355c714e84143c8ecd48ffc1992cfb582
 
 
 
