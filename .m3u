@@ -6,13 +6,13 @@ https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&st
 
 
 #EXTINF:-1, tvg-logo="TCS Canal 4.png" group-litle=,TCS Canal 4
-https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&start=1505275856&set-segment-duration=smoothest&rebase=on&hdntl=exp=1505365868~acl=%2f*~data=hdntl~hmac=b58b26a86dd411e7fbc43783791ed239bb71fa24843befd9a7b15f74bfe91d0c
+https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1505469849&set-segment-duration=smoothest&rebase=on&hdntl=exp=1505559860~acl=%2f*~data=hdntl~hmac=34e64100dfb76a67eb17e73511ab34f005b9cb822f9ff32b9eac8b47a6ba63c4
 
 
 
 
 #EXTINF:-1, tvg-logo="TCS Canal 6.png" group-litle=,TCS Canal 6
-https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1505275875&set-segment-duration=smoothest&rebase=on&hdntl=exp=1505365885~acl=%2f*~data=hdntl~hmac=23224b277f8e1cb75028744c63a5eb230a43b4db1ef235fac7c46c20dce81282
+https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1505469849&set-segment-duration=smoothest&rebase=on&hdntl=exp=1505559860~acl=%2f*~data=hdntl~hmac=34e64100dfb76a67eb17e73511ab34f005b9cb822f9ff32b9eac8b47a6ba63c4
 
 
 
@@ -21,7 +21,7 @@ https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10
 
 
 #EXTINF:-1, tvg-logo="TCS VTV.png" group-litle=,TCS VTV
-https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1505275875&set-segment-duration=smoothest&rebase=on&hdntl=exp=1505365885~acl=%2f*~data=hdntl~hmac=23224b277f8e1cb75028744c63a5eb230a43b4db1ef235fac7c46c20dce81282
+https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1505469849&set-segment-duration=smoothest&rebase=on&hdntl=exp=1505559860~acl=%2f*~data=hdntl~hmac=34e64100dfb76a67eb17e73511ab34f005b9cb822f9ff32b9eac8b47a6ba63c4
 
 
 
@@ -32,4 +32,5 @@ http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Canal 21 Megavision.png" group-litle=,Canal 21 Megavision
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
 
