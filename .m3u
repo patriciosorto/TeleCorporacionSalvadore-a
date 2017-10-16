@@ -22,7 +22,7 @@ https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10
 
 
 #EXTINF:-1, tvg-logo="TCS VTV.png" group-litle=,TCS VTV
-https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1506572857&set-segment-duration=smoothest&rebase=on&hdntl=exp=1506662863~acl=%2f*~data=hdntl~hmac=7447109211c03349fe278752fade6191542196bd20013af009b9924e3b3cea97
+http://sico.cf/LIVE/J02/mobdro.php/1Wiv29M6JBDWTURh-372og/1508131451/b307f22d624c42d3d6931847c0415ee3.m3u8
 
 
 
@@ -33,5 +33,3 @@ http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Canal 21 Megavision.png" group-litle=,Canal 21 Megavision
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
-
-
