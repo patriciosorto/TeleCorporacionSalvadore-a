@@ -6,7 +6,216 @@ ps://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start
 
 
 #EXTINF:-1, tvg-logo="TCS Canal 4.png" group-litle=,TCS Canal 4
+https://streannlive-l#EXTM3U
+#EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,TCS Canal 2
+ps://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start=1508201412&set-segment-duration=smoothest&rebase=on&hdntl=exp=1508291417~acl=%2f*~data=hdntl~hmac=c97beecd4507c9ea6149d576f2e5d34760c01fe7cace26a1475f947877d08639
+
+
+
+
+#EXTINF:-1, tvg-logo="TCS Canal 4.png" group-litle=,TCS Canal 4
 https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&start=1506572845&set-segment-duration=smoothest&rebase=on&hdntl=exp=1506662853~acl=%2f*~data=hdntl~hmac=43fbfbbe3723733832c2e0d073ff786608228d0ee2661dea287066423e1848be
+
+
+
+
+
+#EXTINF:-1, tvg-logo="TCS Canal 6.png" group-litle=,TCS Canal 6
+https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10&start=1508201785&set-segment-duration=smoothest&rebase=on&hdntl=exp=1508291791~acl=%2f*~data=hdntl~hmac=4703e52a8349b03a1d73f9d3f0d61dcbed5d1463ecc2bee2894ee2f6db0da838
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-logo="TCS VTV.png" group-litle=,TCS VTV
+http://sico.cf/LIVE/J02/mobdro.php/1Wiv29M6JBDWTURh-372og/1508131451/b307f22d624c42d3d6931847c0415ee3.m3u8
+
+
+
+
+
+#EXTINF:-1, tvg-logo="TVO Canal 23.png" group-litle=,TVO Canal 23
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="Canal 21 Megavision.png" group-litle=,Canal 21 Megavision
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
+
+#EXTINF:-1,Bloomberg
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+ 
+
+#EXTINF:-1,C-Span
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+
+
+#EXTINF:-1,C-Span 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+
+
+#EXTINF:-1,C-Span 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
+
+
+#EXTINF:-1,The Weather Channel http://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8
+
+
+#EXTINF:-1,RTI World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+ 
+#EXTINF:-1,Press TV
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+
+
+#EXTINF:-1,Aljazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
+
+#EXTINF:-1,Nasa TV
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+
+
+
+
+
+
+#EXTINF:-1,Music Video 1
+http://djing.com/tv/underground.m3u8
+  
+
+
+#EXTINF:-1,Music Video 2
+http://djing.com/tv/dancefloor.m3u8
+
+ 
+#EXTINF:-1,Music Video 3
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+
+
+
+#EXTINF:-1,Virgin Video Radio
+http://wow01.105.net/live/virgin1/playlist.m3u8
+
+
+
+#EXTINF:-1,Capital TV Music
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+
+
+
+#EXTINF:-1,Galicia TV Europa
+http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
+
+
+
+#EXTINF:-1,ETB TV
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+
+
+
+#EXTINF:-1,Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+
+
+
+#EXTINF:-1,Nova TV
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+
+
+#EXTINF:-1,Canal 2 Nicaragua
+http://162.244.81.181:1935/live/Stream1/playlist.m3u8
+
+
+
+#EXTINF:-1,Canal 12 Sur
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+
+
+#EXTINF:-1,PAT TV
+http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
+
+
+
+#EXTINF:-1Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1TVS Canal 10 El Salvador
+http://198.24.135.42/canal10/canal10/playlist.m3u8
+
+
+
+#EXTINF:-1,Televicentro
+http://servicioamerica.net:1935/8276/8276/playlist.m3u8
+
+
+
+
+#EXTINF:-1,Canal 17 El Salvador
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
+
+
+
+
+#EXTINF:-1,Proyecto 40 Mexico
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+
+
+
+#EXTINF:-1,Canal Once Mexico
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/manifest.m3u8
+
+
+
+
+#EXTINF:-1,Azteca 13 Mexico
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+
+
+
+#EXTINF:-1,TeleSur
+http://cdna.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+
+
+
+#EXTINF:-1,Antena 3 España
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+
+
+
+#EXTINF:-1,DW Latin America
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+
+
+
+#EXTINF:-1,Azteca Noticias
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+
+
+
+
+#EXTINF:-1,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+
+
+
+
+
+
+
+
+h.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8?sd=10&start=1506572845&set-segment-duration=smoothest&rebase=on&hdntl=exp=1506662853~acl=%2f*~data=hdntl~hmac=43fbfbbe3723733832c2e0d073ff786608228d0ee2661dea287066423e1848be
 
 
 
