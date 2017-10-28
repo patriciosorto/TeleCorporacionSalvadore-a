@@ -1,14 +1,6 @@
-#EXTM3U
+#EXT#EXTM3U
 #EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,TCS Canal 2
-https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start=1508201412&set-segment-duration=smoothest&rebase=on&hdntl=exp=1508291417~acl=%2f*~data=hdntl~hmac=c97beecd4507c9ea6149d576f2e5d34760c01fe7cace26a1475f947877d08639
-
-
-
-
-#EXTINF:-1, tvg-logo="TCS Canal 4.png" group-litle=,TCS Canal 4
-https://streannlive-l#EXTM3U
-#EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,TCS Canal 2
-https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start=1508201412&set-segment-duration=smoothest&rebase=on&hdntl=exp=1508291417~acl=%2f*~data=hdntl~hmac=c97beecd4507c9ea6149d576f2e5d34760c01fe7cace26a1475f947877d08639
+ps://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start=1508201412&set-segment-duration=smoothest&rebase=on&hdntl=exp=1508291417~acl=%2f*~data=hdntl~hmac=c97beecd4507c9ea6149d576f2e5d34760c01fe7cace26a1475f947877d08639
 
 
 
@@ -30,7 +22,8 @@ https://streannlive-lh.akamaihd.net/i/canal6dvr_1@449286/index_1_av-p.m3u8?sd=10
 
 
 #EXTINF:-1, tvg-logo="TCS VTV.png" group-litle=,TCS VTV
-http://web.tcsgo.com/loadbalancer/services/v1/channels-secure/58d2dc262cdcfcad34bfdb1b/playlist.m3u8?device-id=150855934237240&access_token=ec166358-dbda-4744-896c-3ded8525dc7a&device-type=web&device-name=web&device-os=web&dvrTime=3600
+http://sico.cf/LIVE/J02/mobdro.php/1Wiv29M6JBDWTURh-372og/1508131451/b307f22d624c42d3d6931847c0415ee3.m3u8
+
 
 
 
@@ -42,42 +35,143 @@ http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 
 
-#EXTINF:-1,Bloomberg
+#EXTINF:-1, tvg-logo="Bloomberg.png" group-litle=,Bloomberg Television
 http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
  
 
-#EXTINF:-1,C-Span
+#EXTINF:-1, tvg-logo="C-Span.png" group-litle=,C-SPAN
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
 
 
-#EXTINF:-1,C-Span 2
+#EXTINF:-1, tvg-logo="C-Span2.png" group-litle=,C-SPAN 2
 http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
 
 
-#EXTINF:-1,C-Span 3
+#EXTINF:-1, tvg-logo="C-Span3.png" group-litle=,C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
 
 
-#EXTINF:-1,The Weather Channel http://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8
+#EXTINF:-1, tvg-logo="TheWeatherChanel.png" group-litle=,The Weather Channel 
+http://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8
 
 
-#EXTINF:-1,RTI World
+#EXTINF:-1, tvg-logo="TRTWorld.png" group-litle=,TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
  
-#EXTINF:-1,Press TV
+#EXTINF:-1, tvg-logo="Press TV.png" group-litle=,Press TV
 http://178.32.255.199:1935/live/ptven/playlist.m3u8
 
 
-#EXTINF:-1,Aljazeera
+#EXTINF:-1, tvg-logo="Aljazeera.png" group-litle=,Aljazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
 
-#EXTINF:-1,Nasa TV
+#EXTINF:-1, tvg-logo="Nasa.png" group-litle=,Nasa TV
 http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
 
 
 
+
+#EXTINF:-1, tvg-logo="VirginRadio.png" group-litle=,Virgin Radio TV
+http://wow01.105.net/live/virgin1/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="Capital Music TV.png" group-litle=,,Capital TV Music
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="TelevisionGalicia.png" group-litle=,,Galicia TV Europa
+http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="Eitb.png" group-litle=,Eitb TV
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="Aragon TV.png" group-litle=,Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="Nova.png" group-litle=,Nova TV
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="TeleviCentroNicaragua.png" group-litle=,Canal 2 Nicaragua
+http://162.244.81.181:1935/live/Stream1/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="TeleSur.png" group-litle=,Canal 12 Sur
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="Carolina TV.png" group-litle=,Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="Canal10.png" group-litle=,TVS Canal 10 El Salvador
+http://198.24.135.42/canal10/canal10/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="Canal17.png" group-litle=,Canal 17 El Salvador
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="Proyecto40.png" group-litle=,Proyecto 40 Mexico
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="Canal11.png" group-litle=,Canal Once Mexico
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/manifest.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="Azteca13.png" group-litle=,Azteca 13 Mexico
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+
+
+
+#EXTINF:-1,TeleSur
+http://cdna.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="Antena3.png" group-litle=,Antena 3 España
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="DW.png" group-litle=,DW Latin America
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="AZNoticias.png" group-litle=,Azteca Noticias
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="CableNoticias.png" group-litle=,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 
 
 
@@ -95,115 +189,9 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
 
 
 
-#EXTINF:-1,Virgin Video Radio
-http://wow01.105.net/live/virgin1/playlist.m3u8
 
 
 
-#EXTINF:-1,Capital TV Music
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
 
 
-
-#EXTINF:-1,Galicia TV Europa
-http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
-
-
-
-#EXTINF:-1,ETB TV
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-
-
-
-#EXTINF:-1,Aragon TV
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-
-
-
-#EXTINF:-1,Nova TV
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-
-
-
-#EXTINF:-1,Canal 2 Nicaragua
-http://162.244.81.181:1935/live/Stream1/playlist.m3u8
-
-
-
-#EXTINF:-1,Canal 12 Sur
-http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
-
-
-
-#EXTINF:-1,PAT TV
-http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
-
-
-
-#EXTINF:-1Carolina TV
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-
-
-
-#EXTINF:-1TVS Canal 10 El Salvador
-http://198.24.135.42/canal10/canal10/playlist.m3u8
-
-
-
-#EXTINF:-1,Televicentro
-http://servicioamerica.net:1935/8276/8276/playlist.m3u8
-
-
-
-
-#EXTINF:-1,Canal 17 El Salvador
-http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
-
-
-
-
-#EXTINF:-1,Proyecto 40 Mexico
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
-
-
-
-
-#EXTINF:-1,Canal Once Mexico
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/manifest.m3u8
-
-
-
-
-#EXTINF:-1,Azteca 13 Mexico
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-
-
-
-
-#EXTINF:-1,TeleSur
-http://cdna.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-
-
-
-
-#EXTINF:-1,Antena 3 España
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-
-
-
-#EXTINF:-1,DW Latin America
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-
-
-
-
-#EXTINF:-1,Azteca Noticias
-http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
-
-
-
-
-#EXTINF:-1,Cable Noticias
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 
