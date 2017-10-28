@@ -108,11 +108,6 @@ http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="TeleSur.png" group-litle=,Canal 12 Sur
-http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
-
-
-
 #EXTINF:-1, tvg-logo="Carolina TV.png" group-litle=,Carolina TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
@@ -146,9 +141,9 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 
 
+#EXTINF:-1, tvg-logo="TeleSur.png" group-litle=,Canal 12 Sur
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
-#EXTINF:-1,TeleSur
-http://cdna.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 
 
