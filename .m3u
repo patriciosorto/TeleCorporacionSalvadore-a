@@ -40,6 +40,14 @@ http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1, tvg-logo="Canal 12 El Salvador.png" group-litle=,Canal 12 El Salvador
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/%20chunklist_b489472.m3u8
 
+
+
+
+#EXTINF:-1, tvg-logo="Canal 5 El Lider.png" group-litle=,Canal 5 El Lider
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
+
+
 #EXTINF:-1, tvg-logo="Univision.png" group-litle=,Univision
 http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
 
