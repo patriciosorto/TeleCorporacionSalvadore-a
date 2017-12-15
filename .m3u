@@ -99,7 +99,7 @@ http://189.216.247.113/Content/HLS/Live/Channel(ESTRELLAS_SD)/index.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="Canal 5" group-litle=,Canal 5 
+#EXTINF:-1, tvg-logo="Canal 5.png" group-litle=,Canal 5 
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(01)/index.m3u8
 
 
