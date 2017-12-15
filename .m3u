@@ -63,7 +63,7 @@ http://tvemsnbc-lh.akamaihd.net:80/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="CBS News.png" group-litle=,CBS News
+#EXTINF:-1, tvg-logo="CBSN News.png" group-litle=,CBSN News
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-p.m3u8
 
 
