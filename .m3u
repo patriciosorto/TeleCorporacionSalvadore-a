@@ -243,8 +243,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COMEDY_CENTRAL_HD)/
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(01)/index.m3u8
 
  
-
-AZTECA TRECE
+#EXTINF:-1, tvg-logo="Azteca Trece.png" group-litle=,Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 
