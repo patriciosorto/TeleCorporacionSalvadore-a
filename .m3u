@@ -94,7 +94,7 @@ http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-b.m3u8
  
 
 
-#EXTINF:-1, tvg-logo="Canal De Las Estrellas" group-litle=,Canal De Las Estrellas
+#EXTINF:-1, tvg-logo="Canal De Las Estrellas.png" group-litle=,Canal De Las Estrellas
 http://189.216.247.113/Content/HLS/Live/Channel(ESTRELLAS_SD)/index.m3u8
 
 
