@@ -204,7 +204,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)
 
 
 
-#EXTINF:-1, tvg-logo="FOF Family.png" group-litle=,FOX Family
+#EXTINF:-1, tvg-logo="FOX Family.png" group-litle=,FOX Family
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/Stream(03)/index.m3u8
 
 
