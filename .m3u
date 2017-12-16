@@ -72,6 +72,17 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/Stream(01)/ind
 
 
 
+#EXTINF:-1, tvg-logo="CNN.png" group-litle=,CNN
+http://109.123.114.178:1935/Livenewson/Livenewson14/chunklist_w1813986585.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="Aljazeera.png" group-litle=,Aljazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
+
+
 
 #EXTINF:-1, tvg-logo="MSNBC.png" group-litle=,MSNBC
 http://tvemsnbc-lh.akamaihd.net:80/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
@@ -265,11 +276,6 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 #EXTINF:-1, tvg-logo="AZ Clic.png" group-litle=,AZ Clic
 https://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master2500k.m3u8
-
- 
-
-#EXTINF:-1, tvg-logo="CNN International.png" group-litle=,CNN International
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/Stream(01)/index.m3u8
 
 
 
