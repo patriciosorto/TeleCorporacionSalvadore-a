@@ -37,6 +37,16 @@ http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/un
 
 
 
+#EXTINF:-1, tvg-logo="Unimas.png" group-litle=,Unimas
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82&amp;i=1
+
+
+
+#EXTINF:-1, tvg-logo="Telemundo.png" group-litle=, Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+
+
 #EXTINF:-1, tvg-logo="Canal 5 El Lider.png" group-litle=,Canal 5 El Lider
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
