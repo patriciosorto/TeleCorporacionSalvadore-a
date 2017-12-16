@@ -84,7 +84,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 
 
 
-#EXTINF:-1, tvg-logo="Bloomberg.png" group-litle=, Bloomberg
+#EXTINF:-1, tvg-logo="Bloomberg.png" group-litle=,Bloomberg
 http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
 
 
