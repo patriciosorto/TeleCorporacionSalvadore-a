@@ -78,6 +78,12 @@ http://109.123.114.178:1935/Livenewson/Livenewson14/chunklist_w1813986585.m3u8
 
 
 
+#EXTINF:-1, tvg-logo="The Weather Channel.png" group-litle,The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8
+
+
+
+
 #EXTINF:-1, tvg-logo="Aljazeera.png" group-litle=,Aljazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
