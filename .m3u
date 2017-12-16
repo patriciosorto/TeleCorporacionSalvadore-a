@@ -72,7 +72,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/Stream(01)/ind
 
 
 
-#EXTINF:-1, tvg-logo="CNN HD.png" group-litle=,CNN
+#EXTINF:-1, tvg-logo="CNN INTERNATIONAL.png" group-litle=,CNN
 http://109.123.114.178:1935/Livenewson/Livenewson14/chunklist_w1813986585.m3u8
 
 
