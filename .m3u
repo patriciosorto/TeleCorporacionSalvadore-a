@@ -65,6 +65,73 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMA_DINAMITA)/St
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/Stream(01)/index.m3u8
 
 
+#EXTINF:-1, tvg-logo="Boomerang HD.png" group-litle=Boomerang HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="Cartoon Network.png" group-litle=Cartoon Network HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="Disney HD.png" group-litle=Disney HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="NatGeo Kid HD.png" group-litle=NatGeo Kid HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="Nick JR HD.png" group-litle=Nick Jr HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_JR)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="NatGeo Wild HD.png" group-litle=NatGeo Wild HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="NatGeo HD.png" group-litle=NatGeo HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="ID HD.png" group-litle=ID HD
+http://http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1, tvg-logo="H&H HD.png" group-litle=H&H HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="Discovery HD.png" group-litle=Discovery HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="Animal Planet HD.png" group-litle=Animal Planet HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="FX HD.png" group-litle=FX HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="E! HD.png" group-litle=E! HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(E)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="AXN HD.png" group-litle=AXN HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="AMC HD.png" group-litle=AMC HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AMC_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="RT Español HD.png" group-litle=RT Español HD
+http://secure-streams.akamaized.net/rt-esp/index2500.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="True TV HD.png" group-litle=True TV HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TRUTV)/Stream(01)/index.m3u8
+
 
 
 #EXTINF:-1, tvg-logo="TLC HD.png" group-litle=,TLC
@@ -182,13 +249,22 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="Cinemax.png" group-litle=,Cinemax
-http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/Stream(01)/index.m3u8
+#EXTINF:-1, tvg-logo="Sony HD.png" group-litle=Sony HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
 
+
+
+#EXTINF:-1, tvg-logo="Cinemax.png" group-litle=,Cinemax
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAX)/Stream(01)/index.m3u8
 
 
 #EXTINF:-1, tvg-logo="HBO.png" group-litle=,HBO
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="HBO2 HD.png" group-litle=HBO2 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
 
 
 
@@ -320,3 +396,7 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
 
 #EXTINF:-1,C-Span 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
+
+
+#EXTINF:-1, tvg-logo="Tigo Music HD.png" group-litle=Tigo Music HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
