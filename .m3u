@@ -281,7 +281,12 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stre
 
 #EXTINF:-1, tvg-logo="HBO Signature.png" group-litle=,HBO Signature
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/Stream(02)/index.m3u8
- 
+
+
+
+#EXTINF:-1, tvg-logo="Space HD.png" group-litle=,Space HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
+
 
 
 #EXTINF:-1, tvg-logo="History Channel.png" group-litle=,History Channel
