@@ -5,7 +5,6 @@ ps://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&start
 
 
 
-
 #EXTINF:-1, tvg-logo="TCS Canal 4.png" group-litle=,TCS Canal 4
 https://streannlive-lh.akamaihd.net/i/canal4_1@449285/index_1_av-p.m3u8
 
@@ -21,7 +20,6 @@ http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 
 
 
-
 #EXTINF:-1, tvg-logo="Canal 21 Megavision.png" group-litle=,Canal 21 Megavision
 http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8
 
@@ -29,11 +27,6 @@ http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8
 
 #EXTINF:-1, tvg-logo="Canal 12 El Salvador.png" group-litle=,Canal 12 El Salvador
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/%20chunklist_b489472.m3u8
-
-
-
-#EXTINF:-1, tvg-logo="Orbita tv.png" group-litle=,Orbita TV
-https://ssh101.com/m3u8/dyn/orbitatv/index.m3u8
 
 
 
@@ -406,3 +399,12 @@ http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
 
 #EXTINF:-1, tvg-logo="Tigo Music HD.png" group-litle=,Tigo Music HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="Orbita tv.png" group-litle=,Orbita TV
+https://ssh101.com/m3u8/dyn/orbitatv/index.m3u8
+
+
+
+
