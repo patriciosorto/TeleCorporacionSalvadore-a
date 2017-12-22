@@ -293,7 +293,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(01)/inde
 
 
 #EXTINF:-1, tvg-logo="Cinecanal.png" group-litle=,Cinecanal
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/Stream(01)/index.m3u8
 
 
 
