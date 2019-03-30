@@ -13,8 +13,7 @@ http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/%20chunklist_b489472.m
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
 #EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,Canal 21
-https://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/segment155392711_400_av-b.ts?sd=10&rebase=on&hdntl=exp=1554013464~acl=/*~data=hdntl~hmac=5c04610a5dd0417ab381480fb4b0d0b6d5fd52e822181ca7772aae9c60b7e455
-
+https://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/index_400_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1554013738~acl=%2f*~data=hdntl~hmac=36636ccc49b8a0ff4bbd482d23be757210017e79d2c56c14c06f553226d742d0
 
 #EXTINF:-1, tvg-logo="CNN.png" group-litle=,CNN
 http://live.ustvgo.net/CNN/myStream/chunks.m3u8?nimblesessionid=10937719&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE5IDE6MjI6NTQgQU0maGFzaF92YWx1ZT1xVlY1aElsaXQrR2JwS1NCU08rMU53PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
