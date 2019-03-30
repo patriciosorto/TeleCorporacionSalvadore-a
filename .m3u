@@ -36,8 +36,13 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/778siSi.png" group-litle=,CBSN
+#EXTINF:-1, tvg-logo="https://i.imgur.com/aPFc2GJ.png" group-litle=,CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Kb7v40T.png" group-litle=,CBSN NY
+https://dai.google.com/linear/hls/pa/event/rtcMlf4RTvOEkaudeany5w/stream/a998a8c5-742c-4436-aef6-d67c139c89c0:MRN/variant/d8ff8f583453fcd4d8b3649dcb5e2f7b/bandwidth/2567506.m3u8
+
 
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/SwjHsFa.png" group-litle=,MLB
