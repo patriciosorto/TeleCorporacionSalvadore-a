@@ -58,3 +58,9 @@ http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1, tvg-logo="CNN.png" group-litle=,CANAL 2
 https://streannlive-lh.akamaihd.net/i/canal2_1@449284/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1553999797~acl=*~data=hdntl~hmac=a5699534fff90259dce92e0830b9cc6435ae038d9702e1a0fa835ac4b74a9c2c
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="USA",Sky News America
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+
