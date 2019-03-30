@@ -53,7 +53,7 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
 #EXTINF:-1, tvg-id="https://i.imgur.com/rtOd5XA.png" group-title="USA",Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8 
 
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/6ph2fg8.png" group-title="USA",ESPN
