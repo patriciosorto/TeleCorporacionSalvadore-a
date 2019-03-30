@@ -17,7 +17,7 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 http://live.ustvgo.net/CNN/myStream/chunks.m3u8?nimblesessionid=10937719&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE5IDE6MjI6NTQgQU0maGFzaF92YWx1ZT1xVlY1aElsaXQrR2JwS1NCU08rMU53PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 
 
-#EXTINF:-1, tvg-logo="CNN.png" group-litle=,MSNBC
+#EXTINF:-1, tvg-logo="https://app.box.com/s/ibqc7x95kcucs1jjm42n7kvaygpm5nrz" group-litle=,NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
 
