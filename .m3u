@@ -18,18 +18,18 @@ http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8?sd=10&
 #EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="USA",CNN
+#EXTINF:-1, tvg-id="News" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="USA",CNN
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/shows/fs1/logo_fs1.vresize.1200.630.high.0.png" group-title="USA",Fox Sports 1
+#EXTINF:-1, tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/shows/fs1/logo_fs1.vresize.1200.630.high.0.png" group-title="USA",Fox Sports 1
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA",Fox Sports 2
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA",Fox Sports 2
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="USA",Fox Sports Racing
+#EXTINF:-1, tvg-id="Fox Spor Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="USA",Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="USA",ESPN
+#EXTINF:-1, tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="USA",ESPN
 http://80.80.160.168/live/6/live.m3u8
