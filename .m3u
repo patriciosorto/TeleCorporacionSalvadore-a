@@ -1,7 +1,7 @@
 
 #EXT#EXTM3U
 
-#EXTINF:-1, tvg-logo="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/55857800_1629130083898341_757217397303148544_n.jpg?_nc_cat=100&_nc_ht=scontent-iad3-1.xx&oh=0eab57899c89ce9f299a3d2244ad0f21&oe=5D0B8119" group-litle=,TCS Canal 23
+#EXTINF:-1, tvg-logo="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/55914128_1629130127231670_4311450388344602624_n.jpg?_nc_cat=106&_nc_ht=scontent-iad3-1.xx&oh=3302ca29276a0a5fa2eda9abe4fdc389&oe=5D0AB9D4" group-litle=,TCS Canal 23
 http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
 
 
