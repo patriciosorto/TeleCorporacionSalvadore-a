@@ -6,7 +6,7 @@ http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,TCS Canal 12
+#EXTINF:-1, tvg-logo="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/55944928_1629143637230319_5932185941354479616_o.jpg?_nc_cat=100&_nc_ht=scontent-iad3-1.xx&oh=cf3e16d6295e5bdb73411a0073915c75&oe=5D44CD75" group-litle=,TCS Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/%20chunklist_b489472.m3u8
 
 #EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,TeleviCentro
