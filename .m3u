@@ -15,6 +15,11 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 #EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,Canal 21
 http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8?sd=10&rebase=on
 
+
+#EXTINF:-1, tvg-logo="CNN.png" group-litle=,CNN
+https://1861340594.rsc.cdn77.org/o_xUrfMo2NuDZlrp2L4Ilg==,1553914814/ls-54548-1/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
