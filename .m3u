@@ -15,7 +15,7 @@ http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/%20chunklist_b489472.m
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
 
-#EXTINF:-1, tvg-logo="CNN.png" group-litle=,CNN
+#EXTINF:-1, tvg-logo="https://i.imgur.com/FHVb7tH.png" group-litle=,CNN
 http://live.ustvgo.net/CNN/myStream/chunks.m3u8?nimblesessionid=10937719&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE5IDE6MjI6NTQgQU0maGFzaF92YWx1ZT1xVlY1aElsaXQrR2JwS1NCU08rMU53PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 
 
@@ -33,12 +33,12 @@ http://espn.tmedia.me/cache/espn1_540.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,ESPN 2
+#EXTINF:-1, tvg-logo="https://i.imgur.com/aRgrPxd.png" group-litle=,ESPN 2
 http://espn.tmedia.me/cache/espn2_540.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,ESPN NEWS
+#EXTINF:-1, tvg-logo="https://i.imgur.com/RijjTuQ.png" group-litle=,ESPN NEWS
 http://espn.tmedia.me/cache/espnews.m3u8
 
 
