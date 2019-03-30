@@ -22,7 +22,7 @@ http://23.237.22.82:8086/udp/127.0.0.1:56016
 
 
 
-#EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,MLB
+#EXTINF:-1, tvg-logo="https://i.imgur.com/SwjHsFa.png" group-litle=,MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 
