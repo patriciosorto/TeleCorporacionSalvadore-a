@@ -18,8 +18,5 @@ http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8?sd=10&
 #EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1#EXT#EXTINF:-1,INF:-1,, tvg-logo="TCS Canal 2.png" group-litle=,Univision Deportes
-https://1861340594.rsc.cdn77.org/Egwa7_W9bB-8EzwxD0l-Kw==,1552636758/ls-54548-1/index.m3u8
-
-#EXTINF:-1#EXT#EXTINF:-1,INF:-1,, tvg-logo="TCS Canal 2.png" group-litle=,
-https://watch.livenewson.com/ejNcdpqIc_t-lVmgXmGVVA==,1552637520/LS-ATL-54548-10/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card-twitter.png" group-title="USA",MSNBC
+http://23.237.22.82:8086/udp/127.0.0.1:56079
