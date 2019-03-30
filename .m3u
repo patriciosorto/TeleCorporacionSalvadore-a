@@ -24,8 +24,7 @@ http://live.ustvgo.net/CNN/myStream/chunks.m3u8?nimblesessionid=10937719&wmsAuth
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png
-" group-litle=,ESPN
+#EXTINF:-1, tvg-logo="TCS Canal 2.png" group-litle=,ESPN
 http://espn.tmedia.me/cache/espn1_540.m3u8
 
 
