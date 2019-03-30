@@ -17,7 +17,7 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 http://live.ustvgo.net/CNN/myStream/chunks.m3u8?nimblesessionid=10937719&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE5IDE6MjI6NTQgQU0maGFzaF92YWx1ZT1xVlY1aElsaXQrR2JwS1NCU08rMU53PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 
 
-#EXTINF:-1, tvg-logo="https://public.boxcloud.com/api/2.0/internal_files/430494375570/versions/455141725170/representations/png_paged_2048x2048/content/1.png?access_token=1!MGU35Lt3BkZ05EGgCkQXRMux1Uci35G1Ze2d-EmcsSkPbXcn_icCdjwqqpyK6OVGJFNSBIi37rfC2Wa1VXay3UyzusJa10ndRYCTjtRWRZrvOs5MHpDehGQWunoRJJLXP87kmDyknNWZpCN2JmQLa-X4bZrTv4FEIXX6eCxi5zjoxOo6ZfnL8eT0Y9RzhU0CB_UyJapF86te8DRWgrll6RuyMNa3a0m_o6819XrRoonQIcfRmLkG4lkyYHlP7iml_zTZTcb4lqOuZa9PjL-kbkvtc2VvuOjnvTqwRgPNqT66Xma8IMQPJnngqRy46ACxl-hZNtfNjn_hmwqkd49qb8w6saif-y052lDspIoDzZ6yzKqq2dX5FPCUzD4zyEIgAUXZsGAD8sDAaZbdaB971eQM4G8_pUNhHkhI6abMuKtND07onqjfLNdecsImeIzle-EWIFrOn_BuKCgC98AEhbn9sGj0or7NGTSggUUgEWBNL8nyhvgxTe3fcIi863mrwc_BnFyX3X4itvtHEJmMT-htSrJ0f2iKSt93BgvOFEPmJ0xzyFbiczo4sB7E0VzK&box_client_name=box-content-preview&box_client_version=2.3.0" group-litle=,NBCSN
+#EXTINF:-1, tvg-logo="https://i.imgur.com/DLsOKNs.png" group-litle=,NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
 
