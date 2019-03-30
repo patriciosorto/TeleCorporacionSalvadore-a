@@ -15,8 +15,11 @@ http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/%20chunklist_b489472.m
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
 
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/FHVb7tH.png" group-litle=,CNN
-http://live.ustvgo.net/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE5IDU6NDE6MDIgUE0maGFzaF92YWx1ZT1ncjlOa2Y5TnZWTzluY3VhcCsxc3lnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://1828529515.rsc.cdn77.org/eKlF84aWBRnWOWPcoKckEA==,1553978549/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/DLsOKNs.png" group-litle=,NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
@@ -25,6 +28,7 @@ http://23.237.22.82:8086/udp/127.0.0.1:56016
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/SwjHsFa.png" group-litle=,MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
 
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/6ph2fg8.png" group-litle=,ESPN
@@ -45,14 +49,21 @@ http://espn.tmedia.me/cache/espnews.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/FHVb7tH.png" group-litle=,CNN
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
+
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/FTjHM02.png" group-title="USA",Fox Sports 1
 http://23.237.22.82:8086/udp/127.0.0.1:56046
+
+
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/aol1Nrx.png" group-title="USA",Fox Sports 2
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
+
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/EmI5nih.png" group-litle=,FOXS Sport Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8 
+
 
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/6ph2fg8.png" group-title="USA",ESPN
