@@ -39,18 +39,18 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/RjWSm8m.png" group-litle=,News 12
+#EXTINF:-1, tvg-logo="https://i.imgur.com/OvehtAe.png" group-litle=,News 12
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
 
 
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/GRNPgwV.png" group-litle=,PIX 11 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/3WFheln.png" group-litle=,PIX 11 
 https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
 
 
 
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/NkTV3Qy.png" group-litle=,The Whether Chanel
+#EXTINF:-1, tvg-logo="https://i.imgur.com/dcMOgcG.png" group-litle=,The Whether Chanel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8 
 
 
@@ -60,7 +60,7 @@ http://23.237.22.82:8086/udp/127.0.0.1:56016
  
  
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/aPFc2GJ.png" group-litle=,Olympic Chanel
+#EXTINF:-1, tvg-logo="https://i.imgur.com/D0qudyx.png" group-litle=,Olympic Chanel
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 
 
