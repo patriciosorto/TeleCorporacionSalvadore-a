@@ -69,6 +69,7 @@ http://espn.tmedia.me/cache/espnews.m3u8
 
 
 
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/FHVb7tH.png" group-litle=,CNN
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
 
@@ -94,6 +95,12 @@ http://80.80.160.168/live/6/live.m3u8
 
 
 
+#EXTINF:-1, tvg-logo=" " group-title="USA",Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lals8po.png" group-title="USA",Sky News America
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 
@@ -106,4 +113,6 @@ http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZuL0NA.png" group-title="USA",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
+
+
 
