@@ -44,6 +44,11 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTR
 
 
 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/GRNPgwV.png" group-litle=,PIX 11 
+https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
+
+
+
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/NkTV3Qy.png" group-litle=,The Whether Chanel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8 
