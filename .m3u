@@ -110,19 +110,20 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
  
  
  
-#EXTINF:-1, tvg-logo="https://i.imgur.com/TizevqP.png" group-title="USA",Fox Soccer Plus
-http://190.13.120.123/streams/foxsoccer.m3u8
-
-
-
 #EXTINF:-1, tvg-logo="https://i.imgur.com/aol1Nrx.png" group-title="USA",Fox Sports 2
 http://23.237.22.82:8086/udp/127.0.0.1:56047
+ 
+ 
+ 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/TizevqP.png" group-title="USA",Fox Soccer Plus
+http://190.13.120.123/streams/foxsoccer.m3u8
+ 
+ 
+ 
 
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/w7LI7jH.png" group-title="USA",Fox Deportes
 http://190.13.120.124/streams/foxdeportes.m3u8?fluxustv.m3u8
-
-
 
 
 
