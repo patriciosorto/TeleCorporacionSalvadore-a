@@ -100,7 +100,7 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/aol1Nrx.png" group-title="USA",Fox
+#EXTINF:-1, tvg-logo="https://i.imgur.com/oqE0Xef.png" group-title="USA",Fox Deportes
 http://190.13.120.124/streams/foxdeportes.m3u8?fluxustv.m3u8
 
 
@@ -178,6 +178,10 @@ http://190.13.121.116/streams/disneyjr.m3u8?fluxustv.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LU9V9LO.png" group-title="USA",History Español
+http://190.13.120.113/streams/history.m3u8?fluxustv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9vVUXg.png" group-title="USA",National Geographic Español
+http://190.13.120.117/streams/natgeo.m3u8?fluxustv.m3u8
 
