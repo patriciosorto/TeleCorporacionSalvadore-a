@@ -101,6 +101,13 @@ http://23.237.22.82:8086/udp/127.0.0.1:56047
 
 
 
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/vScETdh.png" group-title="USA",Fox Soccer Plus
+http://190.13.120.124/streams/foxdeportes.m3u8?fluxustv.m3u8
+
+
+
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/EmI5nih.png" group-litle=,FOXS Sport Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8 
 
@@ -131,5 +138,37 @@ http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fZuL0NA.png" group-title="USA",HBO 2
-https://ok.ru/videoembed/957830012521?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ix1gE4q.png" group-title="USA",Universal
+http://161.0.157.7/PLTV/88888888/224/3221226828/index.m3u8?fluxustv.m3u8&icpid=88888888&from=0&ocs=2_161.0.157.50_80&hms_devid=84,44
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nZaRafw.png" group-title="USA",A&E
+http://190.13.120.113/streams/ae.m3u8?fluxustv.m3u8
+ 
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJ0GZeB.png" group-title="USA",Cartoon Network
+http://190.13.120.116/streams/cartoon.m3u8?fluxustv.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tnyMa4w.png" group-title="USA",Disney Chanel
+http://190.13.121.118/streams/disneyla.m3u8?fluxustv.m3u8
+
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWuxQD0.png" group-title="USA",Disney XD
+http://181.176.176.2:8000/play/a00r
+
+  
+  
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aXWbSlg.png" group-title="USA",Disney Junior
+http://190.13.121.116/streams/disneyjr.m3u8?fluxustv.m3u8
+
+
+
+
+
+
