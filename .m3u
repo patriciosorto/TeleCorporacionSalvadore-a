@@ -100,6 +100,15 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/aol1Nrx.png" group-title="USA",Fox
+http://190.13.120.124/streams/foxdeportes.m3u8?fluxustv.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/TLZIZbh.png" group-title="USA",Fox Deportes 3
+http://190.13.120.123/streams/speed.m3u8?fluxustv.m3u8
+
+
 
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/vScETdh.png" group-title="USA",Fox Soccer Plus
