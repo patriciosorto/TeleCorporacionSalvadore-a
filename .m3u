@@ -43,6 +43,10 @@ https://1674331492.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 
 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/HnAS3YK.png" group-litle=,ABC
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+
 
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/q5iiRm7.png" group-litle=,CBSN
