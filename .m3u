@@ -17,7 +17,7 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/Gue1IeN.png" group-litle=,Telemundo
-https://secure-video.tcsgo.com/tcshd/index720p30360p30_20191124T194905.m3u8
+https://turnerlive.akamaized.net/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?hdntl=exp=1585706528~acl=%2fhls%2flive%2f586495%2fcnngo%2f*!%2fhls%2flive%2f586495-b%2fcnngo%2f*~hmac=ece3b794a27e9abaa3580abb60c22470f8777ad65af1e6a8499a9b579969ed8e
 
 
 
