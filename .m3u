@@ -37,18 +37,39 @@ http://iptvcanales.gq/canales/hls/despierta/playlist.m3u8
 http://iptvcanales.gq/canales/hls/tudn/playlist.m3u8
 
 
+
 #EXTINF:-1, tvg-logo="https://www.freepnglogos.com/uploads/univision-png-logo/univision-emblem-png-logo-7.png" group-title="Univision NOW",Futbol
 http://iptvcanales.gq/canales/hls/futbol/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Unimas
+
+
+
+#EXTINF:-1, tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=UNIMAS&productId=LMOD&sourceType=colorHybrid" group-title="Univision NOW",Futbol group-title="Latinos",Unimas
 http://iptvcanales.gq/canales/rojo/94080/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Univision SD
+
+
+
+#EXTINF:-1, tvg-logo="https://www.freepnglogos.com/uploads/univision-png-logo/univision-emblem-png-logo-7.png" group-title="Latinos",Univision SD
 http://iptvcanales.gq/canales/rojo/94081/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Univision HD
+
+
+
+
+#EXTINF:-1, tvg-logo="https://www.freepnglogos.com/uploads/univision-png-logo/univision-emblem-png-logo-7.png" group-title="Latinos",Univision HD
 http://iptvcanales.gq/canales/envivo/univision/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Univision Pacifico
+ 
+
+
+#EXTINF:-1, tvg-logo="https://www.freepnglogos.com/uploads/univision-png-logo/univision-emblem-png-logo-7.png" group-title="Latinos",Univision Pacifico
 http://iptvcanales.gq/canales/rojo/93844/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Univision Puerto Rico
+
+
+
+
+#EXTINF:-1, tvg-logo="https://www.freepnglogos.com/uploads/univision-png-logo/univision-emblem-png-logo-7.png" group-title="Latinos",Univision Puerto Rico
 http://iptvcanales.gq/canales/rojo/548/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="Latinos",Telemundo SD
 http://iptvcanales.gq/canales/rojo/88794/playlist.m3u8
 #EXTINF:-1 group-title="Latinos",Telemundo HD
