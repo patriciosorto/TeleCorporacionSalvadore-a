@@ -64,22 +64,36 @@ http://iptvcanales.gq/canales/rojo/93844/playlist.m3u8
 
 
 
-
 #EXTINF:-1, tvg-logo="https://www.freepnglogos.com/uploads/univision-png-logo/univision-emblem-png-logo-7.png" group-title="Latinos",Univision Puerto Rico
 http://iptvcanales.gq/canales/rojo/548/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Latinos",Telemundo SD
+#EXTINF:-1, tvg-logo="https://variety.com/wp-content/uploads/2014/03/telemundo-logo.jpg" group-title="Latinos",Telemundo SD
 http://iptvcanales.gq/canales/rojo/88794/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Telemundo HD
+
+
+
+https://variety.com/wp-content/uploads/2014/03/telemundo-logo.jpg group-title="Latinos",Telemundo HD
 http://iptvcanales.gq/canales/envivo/telemundo/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Telemundo Internacional HD
+
+
+
+https://variety.com/wp-content/uploads/2014/03/telemundo-logo.jpg group-title="Latinos",Telemundo Internacional HD
 http://iptvcanales.gq/canales/tv/telemundo_hls/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Telemundo Pacifico
+
+
+
+https://variety.com/wp-content/uploads/2014/03/telemundo-logo.jpg group-title="Latinos",Telemundo Pacifico
 http://iptvcanales.gq/canales/rojo/97838/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Telemundo Puerto Rico
+
+
+
+https://variety.com/wp-content/uploads/2014/03/telemundo-logo.jpg group-title="Latinos",Telemundo Puerto Rico
 http://iptvcanales.gq/canales/rojo/544/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="Latinos",Estrella TV SD
 http://iptvcanales.gq/canales/rojo/97889/playlist.m3u8
 #EXTINF:-1 group-title="Latinos",Estrella TV HD
