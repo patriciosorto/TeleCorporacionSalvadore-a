@@ -74,7 +74,7 @@ http://iptvcanales.gq/canales/rojo/88794/playlist.m3u8
 
 
 
-https://variety.com/wp-content/uploads/2014/03/telemundo-logo.jpg group-title="Latinos",Telemundo HD
+#EXTINF:-1, tvg-logo="https://variety.com/wp-content/uploads/2014/03/telemundo-logo.jpg group-title="Latinos",Telemundo HD
 http://iptvcanales.gq/canales/envivo/telemundo/playlist.m3u8
 
 
