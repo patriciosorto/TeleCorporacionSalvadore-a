@@ -104,10 +104,16 @@ http://iptvcanales.gq/canales/live/14/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Latinos",Galavision
-http://iptvcanales.gq/canales/rojo/94101/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Universo SD
+#EXTINF:-1, tvg-logo="https://www.freepnglogos.com/uploads/univision-png-logo/galavision-png-logo-14.png" group-title="Latinos",Galavision
+http://iptvcanales.gq/canales/rojo/94101/playlist.m3u8  
+
+
+
+#EXTINF:-1, tvg-logo="https://www.freepnglogos.com/uploads/univision-png-logo/univision-emblem-png-logo-7.png" group-title="Latinos",Universo SD
 http://iptvcanales.gq/canales/rojo/94105/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="Latinos",Universo HD
 http://iptvcanales.gq/canales/tvfree/142/playlist.m3u8
 #EXTINF:-1 group-title="Latinos",IVC Network
