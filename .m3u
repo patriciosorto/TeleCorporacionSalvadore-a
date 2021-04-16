@@ -9,9 +9,15 @@ http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=UNIMAS&productId=LMOD&sourceType=colorHybrid" group-title="Univision NOW",Unimas
 http://iptvcanales.gq/canales/hls/unimas/playlist.m3u8
-#EXTINF:-1 group-title="Univision NOW",Univision
+
+
+
+#EXTINF:-1, tvg-logo="https://www.freepnglogos.com/uploads/univision-png-logo/univision-emblem-png-logo-7.png" group-title="Univision NOW",Univision
 http://iptvcanales.gq/canales/hls/univision/playlist.m3u8
-#EXTINF:-1 group-title="Univision NOW",Galavision
+
+
+
+#EXTINF:-1, tvg-logo="https://www.freepnglogos.com/uploads/univision-png-logo/galavision-png-logo-14.png" group-title="Univision NOW",Galavision
 http://iptvcanales.gq/canales/hls/galavision/playlist.m3u8
 #EXTINF:-1 group-title="Univision NOW",Novelas
 http://iptvcanales.gq/canales/hls/novelas/playlist.m3u8
