@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AgapeTVCanal8.sv" tvg-country="SV" tvg-language="" tvg-logo="" group-title="",CANAL 4
+#EXTINF:-1 tvg-id="Canal10.sv" tvg-country="SV" tvg-language="" tvg-logo="https://i.imgur.com/Iy5jUjV.png" group-title="",Canal 10 (1080p)
 https://secure-video.tcsgo.com/canal4/index.m3u8
-
-
 #EXTINF:-1 tvg-id="AgapeTVCanal8.sv" tvg-country="SV" tvg-language="" tvg-logo="" group-title="",Agape TV 8 (480p)
 https://can1.krakeniptv.com:25463/live/agape/CPLdE2EadX/1764.m3u8
 #EXTINF:-1 tvg-id="Canal10.sv" tvg-country="SV" tvg-language="" tvg-logo="https://i.imgur.com/Iy5jUjV.png" group-title="",Canal 10 (1080p)
