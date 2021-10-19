@@ -1,174 +1,28 @@
 #EXTM3U
-#EXTINF:-1 group-title="La Casa de los Famosos",Camara 1
-http://iptvcanales.gq/canales/live/275/playlist.m3u8
-#EXTINF:-1 group-title="La Casa de los Famosos",Camara 2
-http://iptvcanales.gq/canales/live/276/playlist.m3u8
-#EXTINF:-1 group-title="La Casa de los Famosos",Camara 3
-http://iptvcanales.gq/canales/live/277/playlist.m3u8
-#EXTINF:-1 group-title="La Casa de los Famosos",Camara 4
-http://iptvcanales.gq/canales/live/278/playlist.m3u8
-#EXTINF:-1 group-title="Univision NOW",Unimas
-http://iptvcanales.gq/canales/hls/fQCAqHLkSPeYW0FmDm7aOQ/playlist.m3u8
-#EXTINF:-1 group-title="Univision NOW",Univision
-http://iptvcanales.gq/canales/hls/OB8_g3B_Th2LAr1AVmM4Mw/playlist.m3u8
-#EXTINF:-1 group-title="Univision NOW",Galavision
-http://iptvcanales.gq/canales/hls/SIvlK2VmTsqL_hgyKeFIPg/playlist.m3u8
-#EXTINF:-1 group-title="Univision NOW",Novelas
-http://iptvcanales.gq/canales/hls/sFLxy90WQy2Eku6hjhqlYQ/playlist.m3u8
-#EXTINF:-1 group-title="Univision NOW",Horoscopos
-http://iptvcanales.gq/canales/hls/HfM_mrwtSqiLcPRXKE2BiQ/playlist.m3u8
-#EXTINF:-1 group-title="Univision NOW",Despierta
-http://iptvcanales.gq/canales/hls/lSjSKVd0QzGSQVXi7PL3Nw/playlist.m3u8
-#EXTINF:-1 group-title="Univision NOW",Delicioso
-http://iptvcanales.gq/canales/hls/Fiw4iaQ6RXu4iWOVh8eTZg/playlist.m3u8
-#EXTINF:-1 group-title="Univision NOW",TUDN
-http://iptvcanales.gq/canales/hls/bQ2JGGVzTpqfCfcTZWay1Q/playlist.m3u8
-#EXTINF:-1 group-title="Univision NOW",Futbol
-http://iptvcanales.gq/canales/hls/3WfvFwf9RWKeJ4pRTQa5Vw/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",MVS TV
-http://iptvcanales.gq/canales/live/288/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Azteca Uno NY
-http://iptvcanales.gq/canales/live/215/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Telexitos NY
-http://iptvcanales.gq/canales/live/216/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Univision NY
-http://iptvcanales.gq/canales/live/217/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",CUNY
-http://iptvcanales.gq/canales/live/218/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Azteca Uno SND
-http://iptvcanales.gq/canales/live/219/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",ADN 40 SND
-http://iptvcanales.gq/canales/live/220/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Imagen SND
-http://iptvcanales.gq/canales/live/221/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Canal 5 SND
-http://iptvcanales.gq/canales/live/222/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Estrella TV SND
-http://iptvcanales.gq/canales/live/223/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Once TV SND
-http://iptvcanales.gq/canales/live/224/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Once Niños SND
-http://iptvcanales.gq/canales/live/225/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",XEWT
-http://iptvcanales.gq/canales/live/226/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Nu9ve
-http://iptvcanales.gq/canales/live/227/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Azteca 7 SND
-http://iptvcanales.gq/canales/live/228/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Azteca America SND
-http://iptvcanales.gq/canales/live/229/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Canal 45 SND
-http://iptvcanales.gq/canales/live/230/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Telexitos SND
-http://iptvcanales.gq/canales/live/231/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Milenio SND
-http://iptvcanales.gq/canales/live/232/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",NV SND
-http://iptvcanales.gq/canales/live/233/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Telemundo FNO
-http://iptvcanales.gq/canales/live/234/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Azteca Uno FNO
-http://iptvcanales.gq/canales/live/235/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Estrella TV FNO
-http://iptvcanales.gq/canales/live/236/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Unimas FNO
-http://iptvcanales.gq/canales/live/237/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Univision FNO
-http://iptvcanales.gq/canales/live/238/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Multimedios Monterrey
-http://iptvcanales.gq/canales/rojo/97868/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Multimedios Monterrey Op2
-http://iptvcanales.gq/canales/live/194/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Nuestra Vision
-http://iptvcanales.gq/canales/live/103/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Distrito TV
-http://iptvcanales.gq/canales/live/30/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Imagen Universal TV
-http://iptvcanales.gq/canales/live/39/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Unimas
-http://iptvcanales.gq/canales/rojo/94080/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Univision SD
-http://iptvcanales.gq/canales/rojo/94081/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Univision Pacifico
-http://iptvcanales.gq/canales/rojo/93844/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Telemundo SD
-http://iptvcanales.gq/canales/rojo/88794/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Telemundo Pacifico
-http://iptvcanales.gq/canales/rojo/97838/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Telemundo Internacional HD
-http://iptvcanales.gq/canales/tv/telemundo_hls/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Estrella TV SD
-http://iptvcanales.gq/canales/rojo/97889/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Estrella TV HD
-http://iptvcanales.gq/canales/live/14/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Galavision
-http://iptvcanales.gq/canales/rojo/94101/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Galavision Op2
-http://iptvcanales.gq/canales/tvfree/55/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Universo SD
-http://iptvcanales.gq/canales/rojo/94105/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Universo HD
-http://iptvcanales.gq/canales/tvfree/142/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",America TeVe
-http://iptvcanales.gq/canales/live/48/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",iPe - Peru
-http://iptvcanales.gq/canales/live/123/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Latina - Peru
-http://iptvcanales.gq/canales/tvfree/4/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",America TV HD - Peru
-http://iptvcanales.gq/canales/tvfree/206/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Panamericana SD - Peru
-http://iptvcanales.gq/canales/live/178/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Panamericana HD - Peru
-http://iptvcanales.gq/canales/live/47/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Willax - Peru
-http://iptvcanales.gq/canales/live/116/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",TV Peru SD
-http://iptvcanales.gq/canales/live/113/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Central TV - Peru
-http://iptvcanales.gq/canales/live/114/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",TV Peru
-http://iptvcanales.gq/canales/live/177/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Exitosa Noticias - Peru
-http://iptvcanales.gq/canales/live/179/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Telecanal - Chile
-http://iptvcanales.gq/canales/live/105/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",La Red - Chile
-http://iptvcanales.gq/canales/live/286/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",La Red Op2 - Chile
-http://iptvcanales.gq/canales/live/107/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",CNN - Chile
-http://iptvcanales.gq/canales/live/109/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Chilevision - Chile
-http://iptvcanales.gq/canales/live/243/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Mega - Chile
-http://iptvcanales.gq/canales/live/266/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Mega Op2 - Chile
-http://iptvcanales.gq/canales/live/241/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",TV Vision - Chile
-http://iptvcanales.gq/canales/live/38/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",TVN - Chile
-http://iptvcanales.gq/canales/live/108/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",TVN HD - Chile
-http://iptvcanales.gq/canales/live/242/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",TV+ - Chile
-http://iptvcanales.gq/canales/live/271/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",City TV - Colombia
-http://iptvcanales.gq/canales/live/156/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",NTN24 - Colombia
-http://iptvcanales.gq/canales/live/196/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",RCN Internacional - Colombia
-http://iptvcanales.gq/canales/tvfree/193/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",RCN - Colombia
-http://iptvcanales.gq/canales/tvfree/417/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Noticias Caracol - Colombia
-http://iptvcanales.gq/canales/tvfree/59/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Noticias Caracol HD - Colombia
-http://iptvcanales.gq/canales/live/28/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Caracol HD - Colombia
-http://iptvcanales.gq/canales/live/267/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Caracol Internacional - Colombia
-http://iptvcanales.gq/canales/live/262/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Señal - Colombia
-http://iptvcanales.gq/canales/live/180/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Teleantioquia - Colombia
+#EXTINF:-1 tvg-id="AgapeTVCanal8.sv" tvg-country="SV" tvg-language="" tvg-logo="" group-title="",Agape TV 8 (480p)
+https://can1.krakeniptv.com:25463/live/agape/CPLdE2EadX/1764.m3u8
+#EXTINF:-1 tvg-id="Canal10.sv" tvg-country="SV" tvg-language="" tvg-logo="https://i.imgur.com/Iy5jUjV.png" group-title="",Canal 10 (1080p)
+http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal33.sv" tvg-country="SV" tvg-language="" tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" group-title="",Canal 33 (1080p)
+https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal33.sv" tvg-country="SV" tvg-language="" tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" group-title="",Canal 33 (1080p)
+https://5ca9af4645e15.streamlock.net/canal33/videocanal33/playlist.m3u8
+#EXTINF:-1 tvg-id="ElimTV.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AonXAXu.png" group-title="",Elim TV (480p) [Offline]
+http://live-15.viewer.dacast.com/i/dclive_1@397642/master.m3u8
+#EXTINF:-1 tvg-id="OrbitaTVCanal25.sv" tvg-country="SV" tvg-language="" tvg-logo="https://3.bp.blogspot.com/-T6GUy9Xq7dk/XHqhBG7oE1I/AAAAAAAAHcI/JthcJF6_nZ8VDmiy0QGGXaVKrsgDsBvogCLcBGAs/s1600/%25C3%2593rbita%2BTV%2BCanal%2B25%2Bhd.png" group-title="",Órbita TV Canal 25 (480p) [Not 24/7]
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TCS.sv" tvg-country="SV" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logotipo-tcs-sv.png" group-title="",TCS (720p)
+https://secure-video.tcsgo.com/tcshd/index.m3u8
+#EXTINF:-1 tvg-id="Tele1.sv" tvg-country="SV" tvg-language="" tvg-logo="https://www.tele1.sv/wp-content/uploads/2019/06/TELE1_FINAL_BLUE-1-149x84.png" group-title="",Tele1 (1080p) [Not 24/7]
+http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele1.sv" tvg-country="SV" tvg-language="" tvg-logo="https://www.tele1.sv/wp-content/uploads/2019/06/TELE1_FINAL_BLUE-1-149x84.png" group-title="",Tele1 (720p) [Not 24/7]
+https://5ca9af4645e15.streamlock.net/canaluno/smil:canaluno.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TribunaTV.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/TRIBUNA-TV-253x194.jpg" group-title="",TribunaTV (614p) [Not 24/7]
+https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMElSalvador.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://tvm.com.sv/wp-content/uploads/2020/02/TVM2.png" user-agent="Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36" group-title="News",TVM El Salvador (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
+http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-country="SV" tvg-language="" tvg-logo="" group-title="",TVO Canal 23 (720p) [Not 24/7]
+https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="SV;PE" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="General",WOW TV (720p) [Not 24/7]
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
