@@ -1,8 +1,8 @@
 #EXTINF:-1,USA: TYC Sports
 https://playback2.akamaized.net/streams/27014129_8167338_lsiu3t6d4p4y8gifmwo_1/master.m3u8?dw=80&hdnts=exp=1635091785~acl=/streams/27014129_8167338_lsiu3t6d4p4y8gifmwo_1/master.m3u8*~hmac=4d32fb684bfe9fb3515c9f81d20914fab5c4c87544b8b7e4f68f5e0391aeb9edcE9NzYDT0Wup6&sid=c2WWRmhCqGhlQEfvPkDV2vRR7RbAwSFZ&pid=RoVuXNLZI4CJfE5kxX7axGVUr70tLmEC&ref=https%3A%2F%2Flive.adn40.mx%2F&without_cookies=false&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1635006383381&ot=iB8Iwl-7kH_evG_QSD-z4w&proto=https&pz=us
-#EXTINF:-1,USA: ESPN ARGENTINA
-https://akamai2-br.cdn.booyah.live/hls/1500035/93320904.m3u8
 #EXTINF:-1,USA: ESPN 2 ARGENTINA
+https://akamai2-br.cdn.booyah.live/hls/1500035/93320904.m3u8
+#EXTINF:-1,USA: ESPN ARGENTINA
 https://centurylink.br.cdn.booyah.live/hls/1500035/93314861.m3u8
 #EXTINF:-1,USA: BTN Sport FHD
 http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/228557
