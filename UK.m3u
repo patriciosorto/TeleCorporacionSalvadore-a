@@ -1,3 +1,34 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:10190932
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+
+#EXT-X-KEY:METHOD=AES-128,URI="https://unidfpclnlds146.akamaized.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_4500/20211102041000.m3u8.key?hdntl=exp=1635912942~acl=*~id=f5cf1d19-6f6f-4d8d-b8c9-f371506b13e3~data=hdntl~hmac=e46de8e350d07a901f774e82e233d07183386bd1ebe59ffac2c86058ac89412d",IV=0x548AFD7F5D1C28722F5AFD31774AD24A
+#EXTINF:10,
+#EXT-X-PROGRAM-DATE-TIME:2021-11-02T04:11:34Z
+https://unidfpclnlds146.akamaized.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_4500_20211102041134_013.ts?hdntl=exp=1635912942~acl=*~id=f5cf1d19-6f6f-4d8d-b8c9-f371506b13e3~data=hdntl~hmac=e46de8e350d07a901f774e82e233d07183386bd1ebe59ffac2c86058ac89412d
+#EXTINF:10,
+https://unidfpclnlds146.akamaized.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_4500_20211102041144_005.ts?hdntl=exp=1635912942~acl=*~id=f5cf1d19-6f6f-4d8d-b8c9-f371506b13e3~data=hdntl~hmac=e46de8e350d07a901f774e82e233d07183386bd1ebe59ffac2c86058ac89412d
+#EXTINF:10,
+https://unidfpclnlds146.akamaized.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_4500_20211102041154_013.ts?hdntl=exp=1635912942~acl=*~id=f5cf1d19-6f6f-4d8d-b8c9-f371506b13e3~data=hdntl~hmac=e46de8e350d07a901f774e82e233d07183386bd1ebe59ffac2c86058ac89412d
+#EXTINF:10,
+https://unidfpclnlds146.akamaized.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_4500_20211102041204_013.ts?hdntl=exp=1635912942~acl=*~id=f5cf1d19-6f6f-4d8d-b8c9-f371506b13e3~data=hdntl~hmac=e46de8e350d07a901f774e82e233d07183386bd1ebe59ffac2c86058ac89412d
+#EXTINF:10,
+https://unidfpclnlds146.akamaized.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_4500_20211102041214_002.ts?hdntl=exp=1635912942~acl=*~id=f5cf1d19-6f6f-4d8d-b8c9-f371506b13e3~data=hdntl~hmac=e46de8e350d07a901f774e82e233d07183386bd1ebe59ffac2c86058ac89412d
+#EXTINF:10,
+https://unidfpclnlds146.akamaized.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_4500_20211102041224_012.ts?hdntl=exp=1635912942~acl=*~id=f5cf1d19-6f6f-4d8d-b8c9-f371506b13e3~data=hdntl~hmac=e46de8e350d07a901f774e82e233d07183386bd1ebe59ffac2c86058ac89412d
+#EXTINF:10,
+https://unidfpclnlds146.akamaized.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_4500_20211102041234_013.ts?hdntl=exp=1635912942~acl=*~id=f5cf1d19-6f6f-4d8d-b8c9-f371506b13e3~data=hdntl~hmac=e46de8e350d07a901f774e82e233d07183386bd1ebe59ffac2c86058ac89412d
+#EXTINF:10,
+https://unidfpclnlds146.akamaized.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_4500_20211102041244_032.ts?hdntl=exp=1635912942~acl=*~id=f5cf1d19-6f6f-4d8d-b8c9-f371506b13e3~data=hdntl~hmac=e46de8e350d07a901f774e82e233d07183386bd1ebe59ffac2c86058ac89412d
+#EXTINF:10,
+https://unidfpclnlds146.akamaized.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_4500_20211102041254_008.ts?hdntl=exp=1635912942~acl=*~id=f5cf1d19-6f6f-4d8d-b8c9-f371506b13e3~data=hdntl~hmac=e46de8e350d07a901f774e82e233d07183386bd1ebe59ffac2c86058ac89412d
+#EXTINF:10,
+https://unidfpclnlds146.akamaized.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_4500_20211102041304_013.ts?hdntl=exp=1635912942~acl=*~id=f5cf1d19-6f6f-4d8d-b8c9-f371506b13e3~data=hdntl~hmac=e46de8e350d07a901f774e82e233d07183386bd1ebe59ffac2c86058ac89412d
+
+
+
 #EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="beIN Sports 1 EN FHD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="AR | BEIN SPORT HD",beIN Sports 1 EN FHD
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/11
 #EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="beIN Sports 1 EN HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="AR | BEIN SPORT HD",beIN Sports 1 EN HD
